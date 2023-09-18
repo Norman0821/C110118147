@@ -7,4 +7,4 @@
 
 ![NKUST](nkust.png)
 
-- [ ] To do list 
+- [x] To do list 
