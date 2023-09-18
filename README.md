@@ -11,6 +11,6 @@
 - [X] 2nd things
 
 ```python
-s='Python high Lingting text'
+s="ython high Lingting text"
 print(s)
 ```
