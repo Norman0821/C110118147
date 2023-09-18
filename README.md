@@ -11,6 +11,12 @@
 - [X] 2nd things
 
 ```python
-s="ython high Lingting text"
+s="Python HighLingts Syntax"
 print(s)
+```
+
+
+```js
+var s = "javascript syntax text";
+alert(s)
 ```
