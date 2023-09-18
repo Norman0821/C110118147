@@ -8,3 +8,4 @@
 ![NKUST](nkust.png)
 
 - [X] To do list 
+- [X] 2nd things
