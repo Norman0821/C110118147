@@ -7,6 +7,8 @@
 
 ![NKUST](nkust.png)
 
+```Emphasis, aka italics, with *asterisks* or _ underscores_.```
+
 - [X] To do list 
 - [ ] 2nd things
 - [ ] 3rd things
