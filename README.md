@@ -8,9 +8,9 @@
 ![NKUST](nkust.png)
 
 - [X] To do list 
-- [] 2nd things
-- [] 3rd things
-- [] 4th things
+- [ ] 2nd things
+- [ ] 3rd things
+- [ ] 4th things
 
 ```python
 s="Python HighLingts Syntax"
